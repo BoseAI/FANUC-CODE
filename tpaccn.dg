@@ -1,0 +1,47 @@
+                       TP Accounting
+
+F Number: E204185  
+VERSION : HandlingTool         
+$VERSION: V9.30116     12/15/2020
+DATE:     14-AUG-26 16:59 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                    01:05:06            3          41
+File                              08:36            6         109
+Variables                         03:50            3          77
+Id:  381, 5                          06            3           0
+Home                     02-29 04:47:06            4           4
+Clock                             01:36            3         141
+Alarm Log                   07 22:03:00           25          77
+DCS                               01:58            4          29
+Home                           20:05:28            5          19
+Config                            07:34            3         406
+SELECT                            03:04            2         119
+Hints                             12:10            1           0
+Host Comm                         08:36            5          86
+Program Setup                     01:30            1          60
+EDIT                              01:22            1           1
+BG Logic                             24            1           1
+Digital                           02:02            2         263
+Registers                            18            1          28
+Position Reg                         42            1          29
+Motion Log                           08            1           1
+System Log                           12            1           0
+4D Display                           46            1           5
+Robot                             01:12            1           1
+Frames                            01:58            1          54
+Interconnect                      01:42            1          92
+Space fnct.                       01:44            1          28
+
+Full Menus:              03-08 01:02:10 
+Quick Menus:                         00 
+
+MENU Popup:                                       45
+[ TYPE ] Pullup:                                   4
+
+Functions at COLD start
+CYCLE POWER                                        5
+
+Functions at CTRL start
+START (COLD)                                       2
