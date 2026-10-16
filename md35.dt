@@ -1,0 +1,11 @@
+tb_cart 1           -- cartesian 1. cycle priority 2. path priority
+tb_jnt 1            -- joint 1. cycle priority 2. path priority
+!MME>flange_type 1  -- flange 1. Normal Flange 2. ISO Flange
+!MME>cable_type 1   -- cable dress-out type setting
+!MME>j1_range 1     -- J1 Range setting
+angle 0  -- mount angle
+payload 35  -- max payload
+flange_type 1 -- Generated Automatically
+cable_type 1 -- Generated Automatically
+j1_range 1 -- Generated Automatically
+ENDOFL              -- end of the file

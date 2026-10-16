@@ -1,0 +1,43 @@
+Security Log for E204185   at 14-AUG-26 16:58:42 
+
+06-MAY-26 15:59 SEC -001 Security Config Mismatch
+06-MAY-26 16:03 SEC -001 Security Config Mismatch
+05-AUG-26 20:50 SEC -001 Security Config Mismatch
+05-AUG-26 21:14 SEC -001 Security Config Mismatch
+05-AUG-26 21:53 SEC -001 Security Config Mismatch
+06-AUG-26 15:07 SEC -001 Security Config Mismatch
+06-AUG-26 16:14 SEC -001 Security Config Mismatch
+06-AUG-26 19:37 SEC -001 Security Config Mismatch
+06-AUG-26 22:04 SEC -001 Security Config Mismatch
+07-AUG-26 14:59 SEC -001 Security Config Mismatch
+12-AUG-26 19:46 SEC -001 Security Config Mismatch
+12-AUG-26 21:31 SEC -001 Security Config Mismatch
+12-AUG-26 21:51 SEC -001 Security Config Mismatch
+12-AUG-26 22:00 SEC -001 Security Config Mismatch
+12-AUG-26 22:02 SEC -001 Security Config Mismatch
+12-AUG-26 22:03 SEC -001 Security Config Mismatch
+12-AUG-26 22:17 SEC -001 Security Config Mismatch
+12-AUG-26 22:32 SEC -001 Security Config Mismatch
+12-AUG-26 22:42 SEC -001 Security Config Mismatch
+12-AUG-26 23:12 SEC -001 Security Config Mismatch
+12-AUG-26 23:38 SEC -001 Security Config Mismatch
+12-AUG-26 23:52 SEC -001 Security Config Mismatch
+13-AUG-26 15:07 SEC -001 Security Config Mismatch
+13-AUG-26 21:30 SEC -001 Security Config Mismatch
+13-AUG-26 21:31 SEC -001 Security Config Mismatch
+14-AUG-26 15:04 SEC -001 Security Config Mismatch
+14-AUG-26 15:11 SEC -001 Security Config Mismatch
+14-AUG-26 15:12 SEC -001 Security Config Mismatch
+14-AUG-26 15:24 SEC -001 Security Config Mismatch
+14-AUG-26 15:29 SEC -001 Security Config Mismatch
+14-AUG-26 15:33 SEC -001 Security Config Mismatch
+14-AUG-26 15:35 SEC -001 Security Config Mismatch
+14-AUG-26 16:40 SEC -001 Security Config Mismatch
+14-AUG-26 16:42 SEC -001 Security Config Mismatch
+
+
+MAIN Security Log Filter:
+14-AUG-26 16:42:04  Task: SYIN logged error: SEC -001 occurred 1 times in 2147483.750000 seconds from 0.0.0.0
+
+
+COMM Security Log Filter is empty.
