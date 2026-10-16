@@ -1,0 +1,24 @@
+/PROG ALIGNROT
+   1:  ! R[99] destination angle R ;
+   2:  UFRAME_NUM=5 ;
+   3:  PR[8:Appoggio]=LPOS ;
+   4:  R[99:Appoggio]=PR[9,6:Appoggio]-PR[8,6:Appoggio] ;
+   5:  IF R[99:Appoggio]>15, JMP LBL[2] ;
+   6:  IF R[99:Appoggio]<-15, JMP LBL[2] ;
+   7:  JMP LBL[100] ;
+   8:  LBL[2] ;
+   9:  ! Use Frame9 to know exactly heigh ;
+  10:  UFRAME_NUM=9 ;
+  11:  PR[8:Appoggio]=LPOS ;
+  12:  PR[8,3:Appoggio]=500 ;
+  13:  R[98:Appoggio]=PR[8,2:Appoggio] ;
+  14:  IF R[98:Appoggio]>-1400, JMP LBL[3] ;
+  15:  PR[8,2:Appoggio]=-1400 ;
+  16:  LBL[3] ;
+  17:  L PR[8:Appoggio] 2000mm/sec CNT10 ;
+  18:  PR[8,6:Appoggio]=PR[8,6:Appoggio]+R[99:Appoggio] ;
+  19:  L PR[8:Appoggio] 2000mm/sec CNT20 ;
+  20:  UFRAME_NUM=5 ;
+  21:  LBL[100] ;
+  22:  END ;
+  23:   ;

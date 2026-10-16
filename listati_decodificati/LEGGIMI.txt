@@ -1,0 +1,12 @@
+Listati dei programmi TP del backup, decodificati dal formato binario .TP
+in testo con sintassi TP (equivalente ai file .LS), con i commenti di
+registri, PR e segnali I/O.
+
+- *.ls                         un file per programma (corpo + sezione /POS con i punti P[])
+- _registri_numerici.txt       R[n] commento valore (da numreg.vr)
+- _position_register.txt       PR[n] commento X Y Z W P R (da posreg.vr)
+
+Limiti: alcune opzioni di movimento rare sono indicate come <opz.xx>;
+i programmi KAREL (.pc) non sono decodificabili.
+Strumenti usati: cartella strumenti_decodifica (python3 tpdec.py file.tp).
+Guida di riferimento: repository Documents, Guida_Software_FANUC_Pallettizzatori.

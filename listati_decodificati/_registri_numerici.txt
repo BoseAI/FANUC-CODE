@@ -1,0 +1,429 @@
+R[1]	RobotStatus	1
+R[2]	NoProductSpeed	25
+R[3]	SpeedWithProd	15
+R[5]	PeP Speed	0
+R[6]	Inclin_PrelInter	0
+R[7]		1
+R[8]	Appoggio PRCONV	1
+R[10]	RqRobotMission	0
+R[12]	Data Flow In	37
+R[13]	Handshake	37
+R[14]	1_Test PALPL_A	0
+R[15]	1_Test PALPL_B	0
+R[16]	Aux Size Change	2
+R[17]	DataCount	24
+R[18]	InputPointer	25
+R[19]	MemPointer	872
+R[20]	TEST	0
+R[21]	Counter Prod A	0
+R[22]	CounterLayerA	2
+R[23]	CaseDepthHeight	130.0
+R[24]	CountStrato	278
+R[25]	IntlHeight	0
+R[26]	RqCtrlTorqueInfe	0
+R[27]	J2_AuxTorqueToll	2
+R[28]	J3_AuxTorqueToll	2
+R[29]	J5_AuxTorqueToll	2
+R[30]	RqIntlTopPallet	0
+R[31]	IndexNextCase	0
+R[32]	IndexNextLayer	2
+R[33]	AuxPointerCase	340
+R[34]	NextPickUpType	0
+R[35]	AuxIndexLayer	278
+R[36]	RowsNumberToPick	0
+R[37]	=1 PhCaseInHead	0
+R[38]	InterlayerCount	0
+R[39]	NumInterPickUp	500.0
+R[40]	OoPBundlePickAdv	0.0
+R[41]	OoPBundleDepAdv	0
+R[42]	OffsZLastLayer	0
+R[44]		1
+R[45]	OoPCasePickupAdv	-274.0
+R[46]		4
+R[47]		24
+R[48]		23
+R[49]		180
+R[50]	PointProdPrel	60
+R[52]	PointTipoPrel	340
+R[53]	PointTipoDep	400
+R[55]	Sec Deposito	0
+R[56]	TipoPrelCorrente	2
+R[57]	TipoDepCorrente	2
+R[58]	Stato Fanuc->PLC	0
+R[59]	NumProdBuffer	0
+R[61]	TestPickDec	25.0
+R[62]	TestRestart	0
+R[64]		35
+R[68]		5
+R[69]	PaltestOk	1
+R[70]	BackUpZPickIntl	470.0
+R[71]	Z Salita Intl	100
+R[77]		600
+R[78]		485.872
+R[79]		173.031
+R[81]		1492.113
+R[82]		529.351
+R[83]		-750.206
+R[85]		5
+R[86]	CambioFormato	0
+R[87]	Appoggio1	0
+R[88]	Pos OK	0
+R[89]	Appoggio Home	526.254
+R[90]	1 No Collisione	0
+R[91]	Soglia+Appl	1279.823
+R[92]	Soglia-Appl	1024.619
+R[93]	IndiceStopPrg	-238.061
+R[94]	Ris SRCH_W	0
+R[95]	Appoggio	7
+R[96]	Appoggio	-164.709
+R[97]	Appoggio	-818.114
+R[98]	Appoggio	20
+R[99]	Appoggio	1
+R[100]	Off.XDepProd	58.0
+R[101]	Off.YDepProd	34.0
+R[102]	Off.ZDepProd	0.0
+R[103]	Accostamento X	30.0
+R[104]	Accostamento Y	-30.0
+R[105]	Accostamento Z	30.0
+R[106]	Sel_TipoAsp	0
+R[107]	Dim.X Pallet	1219.0
+R[108]	Dim.Y Pallet	1016.0
+R[109]	Dim.Z Pallet	130.0
+R[110]	NumProd x LayerA	8
+R[111]	NumProd x LayerB	8
+R[112]	NumLayers Prod	4
+R[113]	NCasseInY	1
+R[114]	Sel_InterTipoAsp	0
+R[115]	OffsR_Interl	0
+R[116]	OffsPW_Interl	30.0
+R[117]	ScostTestaX	0.0
+R[118]	ScostTestaY	0.0
+R[119]	ScostTestaZ	75.0
+R[120]	OFF.X PrelProd	0.0
+R[121]	OFF.Y PrelProd	0.0
+R[122]	OFF.Z PrelProd	0.0
+R[123]	OFF.R PrelProd	180
+R[124]	Dim.X Prod	393.0
+R[125]	Dim.Y Prod	316.0
+R[126]	Dim.Z Prod	255.5
+R[127]	OffsXLabel1	0.0
+R[128]	OffsYLabel1	0.0
+R[129]	OffsZLabel1	0.0
+R[130]	OffsX_DepIntrl	0.0
+R[131]	OffsY_DepIntrl	0.0
+R[132]	OffsZ_DepIntrl	0.0
+R[133]	NCasseInX	1
+R[134]	NFilePresaA	1
+R[135]	NFilePresaB	0
+R[136]	IntlThickness	0.1
+R[137]	OffXLblChk1	251.0
+R[138]	OffYLblChk1	0.0
+R[139]	OffZ1LblChk1	0.0
+R[140]	OffsX_PrelIntrl	0.0
+R[141]	OffsY_PrelIntrl	0.0
+R[142]	Intrl_LastLayer	0
+R[144]	OffZ2LblChk	100.0
+R[146]	OffsRLabel1	900
+R[148]	Punt DatiErrati	16
+R[149]		1270
+R[150]	Avvic Z PrelProd	300.0
+R[151]	DimensioneBuffer	600.0
+R[152]	Avvic.Z Pallet	0.0
+R[153]	V_Homing	25
+R[154]	Vel Test	15
+R[155]	DistanzaPalA_B	31.5
+R[156]	OffXFramePalA	0.0
+R[157]	OffYFramePalA	0.0
+R[158]	OffZFramePalA	0.0
+R[159]	OffWFramePalA	0.0
+R[160]	OffPFramePalA	0.0
+R[161]	OffRFramePalA	0.0
+R[162]	OffXFrameBuffer	0.0
+R[163]	OffYFrameBuffer	0.0
+R[164]	OffZFrameBuffer	0.0
+R[165]	OffWFrameBuffer	0.0
+R[166]	OffPFrameBuffer	0.0
+R[167]	OffRFrameBuffer	0.0
+R[168]	OffXFrameLabel_1	0.0
+R[169]	OffYFrameLabel_1	2.0
+R[170]	OffZFrameLabel_1	0.0
+R[171]	OffXFrameLabel_2	0.0
+R[172]	OffYFrameLabel_2	0.0
+R[173]	OffZFrameLabel_2	0.0
+R[174]	OffXFrameScarto	0
+R[175]	OffYFrameScarto	0
+R[176]	OffZFrameScarto	0
+R[177]	OffWFrameScarto	0
+R[178]	OffPFrameScarto	0
+R[179]	OffRFrameScarto	0
+R[180]	OffXFrameIntl	0.0
+R[181]	OffYFrameIntl	0.0
+R[182]	OffZFrameIntl	0.0
+R[183]	OffWFrameIntl	0.0
+R[184]	OffPFrameIntl	0.0
+R[185]	OffRFrameIntl	0.0
+R[186]	OffXFramePrel	0.0
+R[187]	OffYFramePrel	0.0
+R[188]	OffZFramePrel	0.0
+R[189]	OffWFramePrel	0.0
+R[190]	OffPFramePrel	0.0
+R[191]	OffRFramePrel	0.0
+R[192]	OffXTool	0.0
+R[193]	OffYTool	0.0
+R[194]	OffZTool	20.0
+R[195]	OffWTool	0.0
+R[196]	OffPTool	0.0
+R[197]	OffRTool	0.0
+R[200]	SISTEMA OK	255.0
+R[201]	SNAP 1	0.0
+R[202]	SNAP 2	0.0
+R[203]	SNAP 3	0
+R[204]	SNAP 4	0
+R[205]	FAULT CAMERA	0.0
+R[206]	DATI OK	255.0
+R[207]	ELABORAZ	0.0
+R[208]	ACQUI 	0.0
+R[210]	X1	0.0
+R[211]	X2	584.994
+R[214]	255=Pezzo1 OK	0.0
+R[215]	Y1	0.0
+R[216]	Y2	251.204
+R[219]	255=Pezzo2 OK	255.0
+R[221]	Z2	-0.0
+R[225]	R1	-0.0
+R[226]	R2	179.608
+R[230]	X3	0.0
+R[231]	X4	0.0
+R[234]	255=Pezzo3 OK	0.0
+R[235]	Y3	0.0
+R[236]	Y4	269.862
+R[239]	255=Pezzo4 OK	0
+R[240]	Z3	-0.0
+R[241]	Z4	-0.0
+R[245]	R3	-0.0
+R[246]	R4	179.104
+R[250]	X5	0.0
+R[251]	X6	0.0
+R[254]	255=Pezzo5 OK	0.0
+R[255]	Y5	0
+R[256]	Y6	0
+R[259]	255=Pezzo6 OK	0.0
+R[260]	Z5	0
+R[261]	Z6	0
+R[265]	R5	0
+R[266]	R6	0
+R[270]	X7	0
+R[271]	X8	0
+R[274]	255=Pezzo7 OK	0
+R[275]	Y7	0
+R[276]	Conf_Strato1	1
+R[277]	Conf_Strato2	2
+R[278]	Conf_Strato3	1
+R[279]	Conf_Strato4	2
+R[280]	Conf_Strato5	1
+R[281]	Conf_Strato6	2
+R[282]	Conf_Strato7	1
+R[283]	Conf_Strato8	2
+R[284]	Conf_Strato9	0
+R[285]	Conf_Strato10	0
+R[286]	Conf_Strato11	0
+R[287]	Conf_Strato12	0
+R[288]	Conf_Strato13	0
+R[289]	Conf_Strato14	0
+R[290]	Conf_Strato15	0
+R[291]	Conf_Strato16	0
+R[292]	Conf_Strato17	0
+R[293]	Conf_Strato18	0
+R[294]	Conf_Strato19	0
+R[295]	Conf_Strato20	0
+R[296]	Conf_Strato21	0
+R[297]	Conf_Strato22	0
+R[298]	Conf_Strato23	0
+R[299]	Conf_Strato24	0
+R[300]	Conf_Strato25	0
+R[301]	Conf_Strato26	0
+R[302]	Conf_Strato27	0
+R[303]	Conf_Strato28	0
+R[304]	Conf_Strato29	0
+R[305]	Conf_Strato30	0
+R[306]	Conf_Strato31	0
+R[307]	Conf_Strato32	0
+R[308]	Conf_Strato33	0
+R[309]	Conf_Strato34	0
+R[310]	Conf_Strato35	0
+R[311]	Conf_Strato36	0
+R[323]	Conf_Strato48	0
+R[340]	TipoPrel A	0
+R[399]	TipoPrel 60	0
+R[400]	TipoDeposito 1	2
+R[401]		2
+R[402]		2
+R[403]		2
+R[404]		2
+R[405]		2
+R[406]		2
+R[407]		2
+R[408]		2
+R[409]		2
+R[410]		2
+R[411]		2
+R[412]		2
+R[413]		2
+R[414]		2
+R[415]		2
+R[416]		2
+R[417]		2
+R[459]	TipoDeposito 60	0
+R[460]	ZFloor	-1305.0
+R[461]	ZMinTraslPal	1300.0
+R[462]	ZmaxHighLastRows	1550.0
+R[463]	X_BigCasexBuffer	400.0
+R[464]	ZOutObSalitaPal	475.0
+R[465]	ZIntermOutObSal	0.0
+R[466]	YIntermOutObSal	0.0
+R[467]	AltezzaMinHome	0.0
+R[468]	OffXFramePalB	0.0
+R[469]	OffYFramePalB	16.0
+R[470]	OffZFramePalB	0.0
+R[471]	OffWFramePalB	0.0
+R[472]	OffPFramePalB	0.0
+R[473]	OffRFramePalB	-0.5
+R[474]	H0_PlInertia Z	50.0
+R[475]	Z PREL INTERL	50.0
+R[476]	EscursVentose	100.0
+R[477]	SpazioRicercaInt	470.0
+R[478]	Avvic Prelievo I	100.0
+R[479]	J2 Torque toll	5
+R[480]	J3 Torque toll	5
+R[481]	J5 Torque toll	6
+R[482]	TorqueToll Intl	0.7
+R[483]	Payload	20
+R[500]	OffsX Reject	0.0
+R[501]	OffsY Reject	0.0
+R[502]	OffsZ Reject	0.0
+R[503]	OffXBuffer	25.0
+R[504]	OffYBuffer	20.0
+R[505]	OffZBuffer	20.0
+R[506]	SogliaCtrlN J2_3	0.0
+R[507]	SogliaCtrlN J5	0.0
+R[508]	OffXLblSpreader	0.0
+R[509]	OffYLblSpreader	0.0
+R[510]	OffZ1LblSpreader	0.0
+R[511]	OffZ2LblSpreader	0.0
+R[512]	OffsX_DepSamp	0.0
+R[513]	OffsY_DepSamp	0.0
+R[514]	OffsZ_DepSamp	0.0
+R[515]	OffsXLabel2	0.1
+R[516]	OffsYLabel2	-30.0
+R[517]	OffsZLabel2	30.0
+R[518]	OffsRLabel2	300
+R[519]	OffXLblChk2	0.0
+R[520]	OffYLblChk2	0.0
+R[521]	OffZ1LblChk2	0.0
+R[522]	OffZ2LblChk2	0.0
+R[523]	DatoFormFree	0
+R[540]	TipoPrel B	0
+R[580]	Appoggio	0
+R[581]	Appoggio	0
+R[599]	TipoPrel 60	0
+R[600]	TipoDeposito 1	0
+R[659]	TipoDeposito 60	0
+R[660]	OffXFrameChkLbl1	0.0
+R[661]	OffYFrameChkLbl1	0.0
+R[662]	OffZFrameChkLbl1	0.0
+R[663]	OffXFrameChkLbl2	0.0
+R[664]	OffYFrameChkLbl2	0.0
+R[665]	OffZFrameChkLbl2	0.0
+R[666]	OffAccRejectX	0.0
+R[667]	OffAccRejectY	0.0
+R[668]	OffAccRejectZ	30.0
+R[669]	OffXFrLblSpread	0.0
+R[670]	OffYFrLblSpread	0.0
+R[671]	OffZFrLblSpread	0.0
+R[672]	OffWFrLblSpread	0.0
+R[673]	OffPFrLblSpread	0.0
+R[674]	OffRFrLblSpread	0.0
+R[675]	OffXFrSampling	0.0
+R[676]	OffYFrSampling	0.0
+R[677]	OffZFrSampling	0.0
+R[678]	OffWFrSampling	0.0
+R[679]	OffPFrSampling	0.0
+R[680]	OffRFrSampling	0.0
+R[681]	Z AvvRejectt	800.0
+R[682]	OutObstruInt	1800.0
+R[683]	ChkDcsOnSafety	15
+R[692]	J5 errors	1
+R[693]	J3 errors	5
+R[694]	J2 errors	12
+R[695]	Vel Ricerca mm/s	800
+R[696]	Distanza Start	50
+R[697]	Appoggio CTRL_N	1
+R[698]	Indice StopPrg	0
+R[699]	Soglia-Appl	-100.1
+R[700]	Soglia+Appl	100.1
+R[703]	JogSpeed	0
+R[704]	SelJOG Direction	0
+R[705]	JogPos X	0
+R[706]	JogPos Y	0
+R[707]	JogPos Z	0
+R[708]	JogPos W	0
+R[709]	JogPos P	0
+R[710]	JogPos R	0
+R[711]	Vel JOG	0
+R[712]	Step Vel JOG	0
+R[720]		180
+R[798]	ZLinearDepBundle	0
+R[799]	NumLayersOnCase	0
+R[800]	X Pickup Bundles	0.0
+R[801]	Y Pickup Bundles	0.0
+R[802]	Z Pickup Bundles	0.0
+R[803]	W Pickup Bundles	0.0
+R[804]	P Pickup Bundles	0.0
+R[805]	R Pickup Bundles	0.0
+R[808]	Layers on Case	0
+R[809]	Z Bundle (b)	0.0
+R[810]	Z OutPickBundle	0.0
+R[815]	Payload Bundle	0
+R[816]	X Tool Bundle	0.0
+R[817]	Y Tool Bundle	0.0
+R[818]	Z Tool Bundle	0.0
+R[825]	X DepositBundle	0.0
+R[826]	Y DepositBundle	0.0
+R[827]	Z DepositBundle	0.0
+R[828]	W DepositBundle	0.0
+R[829]	P DepositBundle	0.0
+R[830]	R DepositBundle	0.0
+R[831]	Z DepLastLayer	0.0
+R[833]	Z OutDepBundles	0.0
+R[834]	Z ConsHopperUp	0.0
+R[842]	PosX_1stPicture	0.0
+R[843]	PosY_1stPicture	0.0
+R[844]	PosZ_1stPicture	0.0
+R[845]	PosW_1stPicture	0.0
+R[846]	PosP_1stPicture	0.0
+R[847]	PosR_1stPicture	0.0
+R[848]	Z Dep2ndLayer	0.0
+R[849]	Z Dep3rdLayer	0.0
+R[850]	Z Dep4thLayer	0.0
+R[851]	Z Dep5thLayer	0.0
+R[852]	Z Dep6thLayer	0.0
+R[853]	Z Dep7thLayer	0.0
+R[854]	Z Dep8thLayer	0.0
+R[855]	Z Dep9thLayer	0.0
+R[856]	Z Dep10thLayer	0.0
+R[857]	Z Dep11thLayer	0.0
+R[858]	Z Dep12thLayer	0.0
+R[900]	Tipo Macchina	3
+R[901]	Pinze Presenti	0
+R[902]	CupsUP/DW Presen	0
+R[903]	FixedWirePick_1	1
+R[904]	FiloFissoPallet	3
+R[905]	Label Present	0
+R[906]	M710/M20	3
+R[907]	PosScarto	1
+R[908]	PosSampling	1
+R[909]	FixedWirePick_2	3
+R[910]	Type sampling	0
+R[911]	Rotation Buffer	1
+R[997]		4
+R[998]		3

@@ -1,0 +1,41 @@
+/PROG CC_PREL_INT
+   1:   ;
+   2:  PR[40:Prelievo Intl]=P[100:Zero] ;
+   3:  PR[40,1:Prelievo Intl]=R[107:Dim.X Pallet]/2 ;
+   4:  PR[40,1:Prelievo Intl]=PR[40,1:Prelievo Intl]+R[140:OffsX_PrelIntrl] ;
+   5:  PR[40,2:Prelievo Intl]=R[108:Dim.Y Pallet]/2 ;
+   6:  PR[40,2:Prelievo Intl]=0-PR[40,2:Prelievo Intl]+R[141:OffsY_PrelIntrl] ;
+   7:  PR[40,3:Prelievo Intl]=0 ;
+   8:  PR[40,4:Prelievo Intl]=-180 ;
+   9:  PR[40,6:Prelievo Intl]=0 ;
+  10:   ;
+  11:  PR[44:Deposito Intl]=PR[40:Prelievo Intl] ;
+  12:  PR[44,1:Deposito Intl]=R[107:Dim.X Pallet]/2 ;
+  13:  PR[44,1:Deposito Intl]=PR[44,1:Deposito Intl]+R[140:OffsX_PrelIntrl]+R[130:OffsX_DepIntrl] ;
+  14:  PR[44,2:Deposito Intl]=R[108:Dim.Y Pallet]/2 ;
+  15:  PR[44,2:Deposito Intl]=PR[44,2:Deposito Intl]+R[141:OffsY_PrelIntrl]+R[131:OffsY_DepIntrl] ;
+  16:  PR[44,3:Deposito Intl]=PR[40,3:Prelievo Intl]+R[132:OffsZ_DepIntrl] ;
+  17:   ;
+  18:  PR[1:Appoggio]=PR[40:Prelievo Intl] ;
+  19:  PR[1,3:Appoggio]=850 ;
+  20:   ;
+  21:  CALL PR2P_MUL(1,10,'S10_DEP_INT',1) ;
+  22:  CALL PR2P_MUL(1,10,'S10_DEP_INTA',1) ;
+  23:  CALL PR2P_MUL(1,10,'S11_DEP_INTB',1) ;
+  24:  CALL PR2P_MUL(1,10,'S03_PALPLACE',1) ;
+  25:  CALL PR2P_MUL(1,10,'S03_PALPL_A',1) ;
+  26:  CALL PR2P_MUL(1,10,'S04_PALPL_B',1) ;
+  27:  CALL PR2P_MUL(1,10,'S05_PR_INT',1) ;
+  28:   ;
+  29:  IF R[136:IntlThickness]>0, JMP LBL[10] ;
+  30:  R[136:IntlThickness]=0.1 ;
+  31:  LBL[10] ;
+  32:  R[39:NumInterPickUp]=R[474:H0_PlInertia Z]/R[136:IntlThickness] ;
+  33:  END ;
+  34:   ;
+  35:  UFRAME_NUM=9 ;
+  36:  UTOOL_NUM=2 ;
+  37:  J P[100:Zero] 1% FINE ;
+  38:   ;
+/POS
+P[100:Zero]  UF:0 UT:2  X=0.0 Y=0.0 Z=0.0 W=0.0 P=0.0 R=0.0

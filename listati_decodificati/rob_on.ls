@@ -1,0 +1,27 @@
+/PROG ROB_ON
+   1:  WAIT 1.00(sec) ;
+   2:  MESSAGE[...] ;
+   3:  MESSAGE[...] ;
+   4:  MESSAGE[...] ;
+   5:  MESSAGE[...] ;
+   6:  MESSAGE[........ROBOT ON.......] ;
+   7:  MESSAGE[...] ;
+   8:  MESSAGE[...] ;
+   9:  MESSAGE[...] ;
+  10:  MESSAGE[...] ;
+  11:   ;
+  12:  ! Reset word stato robot ;
+  13:  R[1:RobotStatus]=0 ;
+  14:  R[20:TEST]=0 ;
+  15:   ;
+  16:  IF DO[7:Home position]=OFF, JMP LBL[5] ;
+  17:  DO[66:OutOfObstructFromPickup]=ON ;
+  18:  DO[67:OutOfObstructFromCasePak]=ON ;
+  19:  DO[68:OutObstructionInterlayer]=ON ;
+  20:  DO[78:Out Obstruction PickUp]=ON ;
+  21:  DO[69:Out Obstruction Pallet A]=ON ;
+  22:  DO[70:Out Obstruction Pallet B]=ON ;
+  23:  LBL[5] ;
+  24:  DO[21:Robot Acceso]=ON ;
+  25:   ;
+  26:  R[26:RqCtrlTorqueInfe]=1 ;

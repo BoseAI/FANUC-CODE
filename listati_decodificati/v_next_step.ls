@@ -1,0 +1,27 @@
+/PROG V_NEXT_STEP
+   1:  IF (R[37:=1 PhCaseInHead]=0), JMP LBL[1] ;
+   2:  R[31:IndexNextCase]=R[21:Counter Prod A] ;
+   3:  R[32:IndexNextLayer]=R[22:CounterLayerA] ;
+   4:  LBL[1] ;
+   5:   ;
+   6:  R[35:AuxIndexLayer]=R[32:IndexNextLayer]+276 ;
+   7:   ;
+   8:  SELECT R[R[35]]=1, JMP LBL[11] ;
+   9:         =2, JMP LBL[12] ;
+  10:         =3, JMP LBL[11] ;
+  11:         =4, JMP LBL[12] ;
+  12:         =5, JMP LBL[11] ;
+  13:         =6, JMP LBL[12] ;
+  14:   ;
+  15:  LBL[11:Strato A] ;
+  16:  R[33:AuxPointerCase]=R[31:IndexNextCase]+340 ;
+  17:  JMP LBL[15] ;
+  18:   ;
+  19:  LBL[12:Strato B] ;
+  20:  R[33:AuxPointerCase]=R[31:IndexNextCase]+540 ;
+  21:  JMP LBL[15] ;
+  22:   ;
+  23:  LBL[15] ;
+  24:  R[34:NextPickUpType]=R[R[33]] ;
+  25:   ;
+  26:  END ;
