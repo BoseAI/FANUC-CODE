@@ -1,0 +1,171 @@
+dc
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[16]: 0x6502
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[17]: 0x8828
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[18]: 0xab4e
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[19]: 0xce74
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[20]: 0xf19a
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[21]: 0x14c0
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[22]: 0x37e6
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[23]: 0x5b0c
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[24]: 0x7e32
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[25]: 0xa158
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[26]: 0xc47e
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[27]: 0xe7a4
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[28]: 0xaca
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[29]: 0x2df0
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[30]: 0x65a
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[31]: 0x2980
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[32]: 0x4ca6
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[33]: 0x6fcc
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[34]: 0x92f2
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[35]: 0xb618
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[36]: 0xd93e
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[37]: 0xfc64
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[38]: 0x1f8a
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[39]: 0x42b0
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[40]: 0x65d6
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[41]: 0x88fc
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[42]: 0xac22
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[43]: 0xcf48
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[44]: 0xf26e
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[45]: 0x1594
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[46]: 0x38ba
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[47]: 0x5be0
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[48]: 0x7f06
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[49]: 0xa22c
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[50]: 0xc552
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[51]: 0xe877
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[52]: 0xb9d
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[53]: 0x2ec3
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[54]: 0x51e9
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[55]: 0x750f
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[56]: 0x9835
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[57]: 0xbb5b
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[58]: 0xde81
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[59]: 0x1a7
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[60]: 0x24cd
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[61]: 0x47f3
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[62]: 0x6b19
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[63]: 0x8e3f
+
+AUG 14 2026 16:42:02 : [CPINIT] Conn Serial_No[64]: 0xb165
+
+AUG 14 2026 16:42:12 : index 0, ADP, I/O o:64 i:64, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 1, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 2, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 3, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 4, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 5, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 6, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 7, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 8, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 9, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 10, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 11, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 12, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 13, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 14, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 15, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 16, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 17, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 18, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 19, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 20, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 21, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 22, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 23, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 24, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 25, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 26, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 27, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 28, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 29, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 30, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 31, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 32, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 33, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 34, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 35, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 36, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 37, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 38, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 39, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 40, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 41, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 42, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 43, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 44, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 45, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 46, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 47, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 48, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 49, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 50, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 51, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 52, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 53, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 54, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 55, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 56, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 57, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 58, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 59, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 60, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 61, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 62, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : index 63, ADP, I/O o:0 i:0, rpi ot:0 to:0, cco_id 0
+AUG 14 2026 16:42:12 : CPMSG_P->options = 0x0
+AUG 14 2026 16:42:12 : CPMSG_P->state = CIP_OK
+AUG 14 2026 16:42:12 : Register Session Received
+AUG 14 2026 16:42:12 : Recieve FwdOpen 0
+AUG 14 2026 16:42:12 : Adp 0 creq valid
+AUG 14 2026 16:42:12 : Adp0 EO ConnID  to: 0xd25a5700 ot: 0x217e501f
+AUG 14 2026 16:42:12 : Adp0 API  to: 10 ot: 10

@@ -1,0 +1,596 @@
+F Number: E204185  
+VERSION : HandlingTool         
+$VERSION: V9.30116     12/15/2020
+DATE:     14-AUG-26 16:41 
+DCS Version: V4.2.14
+
+--- Cartesian Position Check -----------
+  Process time factor (Max.1000):  216
+ No.        G M Status     Comment
+  1 ENABLE  1 WD CHGD [V1              ]
+  2 ENABLE  1 RD CHGD [V2              ]
+  3 ENABLE  1 RD CHGD [V3              ]
+  4 ENABLE  1 RD CHGD [V4              ]
+  5 DISABLE 1 WD ---- [                ]
+  6 DISABLE 1 WD ---- [                ]
+  7 DISABLE 1 WD ---- [                ]
+  8 DISABLE 1 WD ---- [                ]
+  9 DISABLE 1 WD ---- [                ]
+ 10 DISABLE 1 WD ---- [                ]
+ 11 DISABLE 1 WD ---- [                ]
+ 12 DISABLE 1 WD ---- [                ]
+ 13 DISABLE 1 WD ---- [                ]
+ 14 DISABLE 1 WD ---- [                ]
+ 15 DISABLE 1 WD ---- [                ]
+ 16 DISABLE 1 WD ---- [                ]
+ 17 DISABLE 1 WD ---- [                ]
+ 18 DISABLE 1 WD ---- [                ]
+ 19 DISABLE 1 WD ---- [                ]
+ 20 DISABLE 1 WD ---- [                ]
+ 21 DISABLE 1 WD ---- [                ]
+ 22 DISABLE 1 WD ---- [                ]
+ 23 DISABLE 1 WD ---- [                ]
+ 24 DISABLE 1 WD ---- [                ]
+ 25 DISABLE 1 WD ---- [                ]
+ 26 DISABLE 1 WD ---- [                ]
+ 27 DISABLE 1 WD ---- [                ]
+ 28 DISABLE 1 WD ---- [                ]
+ 29 ENABLE  1 RD CHGD [V5-Pallet B     ]
+ 30 ENABLE  1 RD CHGD [V6-Pallet B     ]
+ 31 ENABLE  1 RD CHGD [V3-Pallet A     ]
+ 32 ENABLE  1 RD CHGD [V4-Pallet A     ]
+
+    No.  1              Status:CHGD
+  1 Comment:   [V1                     ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Working zone(Diagnal)   
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:        User model 2
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2    -1700.0     1255.0
+ 10 Y       1.3    -1600.0     1550.0
+ 11 Z      14.2    -1320.0     1330.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SSI[  8:T1        ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No.  2              Status:CHGD
+  1 Comment:   [V2                     ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2     -760.0     -450.0
+ 10 Y       1.3     1600.0      725.0
+ 11 Z      14.2    -1360.0      730.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SSI[  8:T1        ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No.  3              Status:CHGD
+  1 Comment:   [V3                     ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2    -1700.0     -761.0
+ 10 Y       1.3     1600.0      725.0
+ 11 Z      14.2    -1360.0     1440.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SSI[  8:T1        ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No.  4              Status:CHGD
+  1 Comment:   [V4                     ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2    -1700.0     -435.0
+ 10 Y       1.3     -450.0    -1580.0
+ 11 Z      14.2     -490.0       30.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SSI[  8:T1        ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No. 29              Status:CHGD
+  1 Comment:   [V5-Pallet B            ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2     1180.0     -350.0
+ 10 Y       1.3      480.0     1450.0
+ 11 Z      14.2    -1000.0      380.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SPI[  2:SFDI2     ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No. 30              Status:CHGD
+  1 Comment:   [V6-Pallet B            ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2     1180.0     -350.0
+ 10 Y       1.3      390.0      480.0
+ 11 Z      14.2    -1000.0      310.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SPI[  2:SFDI2     ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No. 31              Status:CHGD
+  1 Comment:   [V3-Pallet A            ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2     1180.0     -350.0
+ 10 Y       1.3     -520.0     -370.0
+ 11 Z      14.2    -1000.0      310.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SPI[  1:SFDI1     ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+    No. 32              Status:CHGD
+  1 Comment:   [V4-Pallet A            ]
+  2 Enable/Disable:            ENABLE 
+  3 Method:    Restricted zone(Diagnal)
+  4 Group:                            1
+  5 Target model 1:        User model 1
+  6 Target model 2:             DISABLE
+  7 Target model 3:             DISABLE
+  8 Base frame:   User frame:     9
+    Position(mm):
+        Current      Point 1    Point 2
+  9 X    -370.2     1180.0     -350.0
+ 10 Y       1.3    -1469.0     -520.0
+ 11 Z      14.2    -1000.0      380.0
+ 12 Stop type:         Stop Category 0
+ 13 Disabling input: SPI[  1:SFDI1     ]
+ 14 Use Stop Position Prediction: Yes   
+ -- Speed check detail --
+    Limit(mm/s) / DSBL input
+  1 Limit 1:  250.0 / ---[  0]
+  2 Limit 2:  250.0 / ---[  0]
+  3 Limit 3:  250.0 / ---[  0]
+  4 Limit 4:  250.0 / ---[  0]
+  5 delay time:                   0 msec
+  6 Permissible distance(mm):       0.0
+
+--- User model -------------------------
+No. Elem Status  type      Comment
+  1  5    CHGD [Base Tool              ]
+  2  0    CHGD [Box                    ]
+  3  0    CHGD [                       ]
+  4  0     OK  [                       ]
+  5  0     OK  [                       ]
+  6  0     OK  [                       ]
+  7  0     OK  [                       ]
+  8  0     OK  [                       ]
+  9  0     OK  [                       ]
+ 10  0     OK  [                       ]
+ 11  0     OK  [                       ]
+ 12  0     OK  [                       ]
+ 13  0     OK  [                       ]
+ 14  0     OK  [                       ]
+ 15  0     OK  [                       ]
+ 16  0     OK  [                       ]
+
+No.   1  [Base Tool              ]
+ Elements
+  No.         Link  Shape   Size Status
+  1  ENABLE    1  Point       250  CHGD
+  2  ENABLE    2  Line_seg    110  CHGD
+  3  ENABLE    3  Point       220  CHGD
+  4  ENABLE    4  Line_seg    100  CHGD
+  5  DISABLE   5  Point        80  CHGD
+  6  ENABLE   99  Line_seg     90  CHGD
+  7  DISABLE  99  Point         0   OK 
+  8  DISABLE  99  Point         0   OK 
+  9  DISABLE  99  Point         0   OK 
+ 10  DISABLE  99  Point         0   OK 
+
+No.   1  [Base Tool              ]
+Element:  1    Status: CHGD
+
+  1 Enable/Disable:             ENABLE 
+  2 Link No.(99:FacePlate):           1
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Point   
+  6 Size (mm):                    250.0
+  Pos1
+  7  X:  -90.000 Y:  -40.000 Z:  -10.000
+  Pos2
+  8  X:    0.000 Y:    0.000 Z:    0.000
+
+No.   1  [Base Tool              ]
+Element:  2    Status: CHGD
+
+  1 Enable/Disable:             ENABLE 
+  2 Link No.(99:FacePlate):           2
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Line_seg
+  6 Size (mm):                    110.0
+  Pos1
+  7  X: -100.000 Y:  100.000 Z:  180.000
+  Pos2
+  8  X: -850.000 Y:   60.000 Z:  190.000
+
+No.   1  [Base Tool              ]
+Element:  3    Status: CHGD
+
+  1 Enable/Disable:             ENABLE 
+  2 Link No.(99:FacePlate):           3
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Point   
+  6 Size (mm):                    220.0
+  Pos1
+  7  X: -100.000 Y:   30.000 Z:  -90.000
+  Pos2
+  8  X:    0.000 Y:    0.000 Z:    0.000
+
+No.   1  [Base Tool              ]
+Element:  4    Status: CHGD
+
+  1 Enable/Disable:             ENABLE 
+  2 Link No.(99:FacePlate):           4
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Line_seg
+  6 Size (mm):                    100.0
+  Pos1
+  7  X:    0.000 Y:    0.000 Z:   40.000
+  Pos2
+  8  X:    0.000 Y:  700.000 Z:   40.000
+
+No.   1  [Base Tool              ]
+Element:  5    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):           5
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Point   
+  6 Size (mm):                     80.0
+  Pos1
+  7  X:    0.000 Y:    0.000 Z:  -45.000
+  Pos2
+  8  X:    0.000 Y:    0.000 Z:    0.000
+
+No.   1  [Base Tool              ]
+Element:  6    Status: CHGD
+
+  1 Enable/Disable:             ENABLE 
+  2 Link No.(99:FacePlate):          99
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       1
+  5 Shape:                     Line_seg
+  6 Size (mm):                     90.0
+  Pos1
+  7  X: -140.000 Y:    0.000 Z:   20.000
+  Pos2
+  8  X:  140.000 Y:    0.000 Z:   20.000
+
+No.   2  [Box                    ]
+ Elements
+  No.         Link  Shape   Size Status
+  1  DISABLE   4  Box           0  CHGD
+  2  DISABLE  99  Point         0   OK 
+  3  DISABLE  99  Point         0   OK 
+  4  DISABLE  99  Point         0   OK 
+  5  DISABLE  99  Point         0   OK 
+  6  DISABLE  99  Point         0   OK 
+  7  DISABLE  99  Point         0   OK 
+  8  DISABLE  99  Point         0   OK 
+  9  DISABLE  99  Point         0   OK 
+ 10  DISABLE  99  Point         0   OK 
+
+No.   2  [Box                    ]
+Element:  1    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):           4
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Box     
+ Box
+  6 Width (X) (mm):              110.0
+  7 Height(Y) (mm):              500.0
+  8 Thick (Z) (mm):              186.0
+  Offset 
+  9 X:  115.0  Y:  430.0  Z:  -93.0
+
+No.   3  [                       ]
+ Elements
+  No.         Link  Shape   Size Status
+  1  DISABLE  99  Box         250  CHGD
+  2  DISABLE   2  Line_seg    160  CHGD
+  3  DISABLE   3  Point       270  CHGD
+  4  DISABLE   4  Line_seg    115  CHGD
+  5  DISABLE   5  Point        80  CHGD
+  6  DISABLE  99  Point         0   OK 
+  7  DISABLE  99  Point         0   OK 
+  8  DISABLE  99  Point         0   OK 
+  9  DISABLE  99  Point         0   OK 
+ 10  DISABLE  99  Point         0   OK 
+
+No.   3  [                       ]
+Element:  1    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):          99
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       1
+  5 Shape:                     Box     
+ Box
+  6 Width (X) (mm):              385.0
+  7 Height(Y) (mm):              190.0
+  8 Thick (Z) (mm):               50.0
+  Offset 
+  9 X:    0.0  Y:    0.0  Z:    0.0
+
+No.   3  [                       ]
+Element:  2    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):           2
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Line_seg
+  6 Size (mm):                    160.0
+  Pos1
+  7  X:  -50.000 Y:   40.000 Z:  170.000
+  Pos2
+  8  X: -850.000 Y:   40.000 Z:  170.000
+
+No.   3  [                       ]
+Element:  3    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):           3
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Point   
+  6 Size (mm):                    270.0
+  Pos1
+  7  X: -100.000 Y:   30.000 Z:  -90.000
+  Pos2
+  8  X:    0.000 Y:    0.000 Z:    0.000
+
+No.   3  [                       ]
+Element:  4    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):           4
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Line_seg
+  6 Size (mm):                    115.0
+  Pos1
+  7  X:    0.000 Y:    0.000 Z:   30.000
+  Pos2
+  8  X:    0.000 Y:  600.000 Z:   30.000
+
+No.   3  [                       ]
+Element:  5    Status: CHGD
+
+  1 Enable/Disable:             DISABLE
+  2 Link No.(99:FacePlate):           5
+  3 Link type:                 NORMAL  
+  4 Tool frame:                       0
+  5 Shape:                     Point   
+  6 Size (mm):                     80.0
+  Pos1
+  7  X:    0.000 Y:    0.000 Z:  -45.000
+  Pos2
+  8  X:    0.000 Y:    0.000 Z:    0.000
+
+--- Tool frame -------------------------
+Group: 1                          Status
+Tool select:                     0   OK 
+(0:FacePlate,-1:Tool change)
+Current Tool:                    0
+    1  0    ---[  0:          ]     CHGD
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:     20.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+    0  0    ---[  0:          ]      OK 
+         X:      0.0  W:      0.0
+         Y:      0.0  P:      0.0
+         Z:      0.0  R:      0.0
+
+--- User frame -------------------------
+Group: 1
+  No.     XYZ(mm)     WPR(deg)    Status
+    9   X:      0.0  W:      0.0    CHGD
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:    180.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+    0   X:      0.0  W:      0.0     OK 
+        Y:      0.0  P:      0.0
+        Z:      0.0  R:      0.0
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:        1931254558            0
+  Time:14-AUG-26 16:41              None
+2 Base:        -1156699943            0
+  Time:06-MAY-26 16:02              None
+   Mastering:    630070270
+   Robot:        -62797429
+   Other:       -930978075
+3 Pos./Speed:  -2002160426            0
+  Time:14-AUG-26 16:41              None
+4 I/O connect: -1424621629            0
+  Time:06-MAY-26 16:02              None
+

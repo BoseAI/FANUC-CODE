@@ -1,0 +1,21 @@
+F Number: E204185  
+VERSION : HandlingTool         
+$VERSION: V9.30116     12/15/2020
+DATE:     14-AUG-26 16:59 
+DCS Version: V4.2.14
+
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:        1931254558            0
+  Time:14-AUG-26 16:41              None
+2 Base:        -1156699943            0
+  Time:06-MAY-26 16:02              None
+   Mastering:    630070270
+   Robot:        -62797429
+   Other:       -930978075
+3 Pos./Speed:  -2002160426            0
+  Time:14-AUG-26 16:41              None
+4 I/O connect: -1424621629            0
+  Time:06-MAY-26 16:02              None
+

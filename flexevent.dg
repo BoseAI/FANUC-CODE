@@ -1,0 +1,66 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 06-MAY-26 16:00:46  8222 Power Cycle 
+KEY   72 06-MAY-26 16:01:38  e50b /wizard/guided/steps Initial Setup
+KEY   72 06-MAY-26 16:01:38  e50b /wizard/guided/steps Initial Setup
+KEY   72 06-MAY-26 16:01:54   54b /wizard/guided/steps Initial Setup
+EXIT  72 06-MAY-26 16:01:54   54c 34 4 
+POWR  72 06-MAY-26 16:03:50  3569 Power Cycle 
+KEY   72 06-MAY-26 16:05:56  2b3d /wizard/guided/steps Initial Setup
+POWR  72 05-AUG-26 20:51:06  32dc Power Cycle 
+KEY   72 05-AUG-26 20:51:10  3a21 /wizard/guided/steps Initial Setup
+POWR  72 05-AUG-26 21:15:06  32be Power Cycle 
+KEY   72 05-AUG-26 21:15:10  382a /wizard/guided/steps Initial Setup
+POWR  72 05-AUG-26 21:53:26  32c2 Power Cycle 
+KEY   72 05-AUG-26 21:53:30  3754 /wizard/guided/steps Initial Setup
+POWR  72 06-AUG-26 15:07:36  32ce Power Cycle 
+KEY   72 06-AUG-26 15:07:40  383f /wizard/guided/steps Initial Setup
+POWR  72 06-AUG-26 16:15:04  32e6 Power Cycle 
+KEY   72 06-AUG-26 16:15:08  3a46 /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:40  c91e /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:42  c9ae /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:44  cfba /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:44  d016 /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:46  d28e /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:46  d306 /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:46  d3de /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:46  d422 /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:48  d65e /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:48  d6ee /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:48  d8ca /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:50  d942 /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:50  d9d2 /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:55:50  da3a /wizard/guided/steps Initial Setup
+KEY   72 06-AUG-26 16:56:36  3630 /wizard/guided/steps Initial Setup
+EXIT  72 06-AUG-26 16:56:36  3631 34 6 
+POWR  72 06-AUG-26 19:37:24  32b9 Power Cycle 
+POWR  72 06-AUG-26 22:04:32  32e0 Power Cycle 
+POWR  72 07-AUG-26 14:59:56  32b1 Power Cycle 
+POWR  72 12-AUG-26 19:47:04  32eb Power Cycle 
+POWR  72 12-AUG-26 21:32:06  32d1 Power Cycle 
+POWR  72 12-AUG-26 21:52:00  32b0 Power Cycle 
+POWR  72 12-AUG-26 22:00:20  32ad Power Cycle 
+POWR  72 12-AUG-26 22:02:40  32c4 Power Cycle 
+POWR  72 12-AUG-26 22:03:52  32cb Power Cycle 
+POWR  72 12-AUG-26 22:17:56  32c7 Power Cycle 
+POWR  72 12-AUG-26 22:32:30  32e9 Power Cycle 
+POWR  72 12-AUG-26 22:42:18  32c4 Power Cycle 
+POWR  72 12-AUG-26 23:12:52  3317 Power Cycle 
+POWR  72 12-AUG-26 23:38:16  32b6 Power Cycle 
+POWR  72 12-AUG-26 23:52:34  32cd Power Cycle 
+POWR  72 13-AUG-26 15:07:46  32c9 Power Cycle 
+POWR  72 13-AUG-26 21:30:54  32e4 Power Cycle 
+POWR  72 13-AUG-26 21:32:08  3297 Power Cycle 
+POWR  72 14-AUG-26 15:04:18  32ba Power Cycle 
+POWR  72 14-AUG-26 15:11:38  32fa Power Cycle 
+POWR  72 14-AUG-26 15:12:48  32de Power Cycle 
+POWR  72 14-AUG-26 15:25:02  32ca Power Cycle 
+KEY   72 14-AUG-26 15:25:06  383f /wizard/guided/steps Initial Setup
+KEY   72 14-AUG-26 15:26:40  ef7d /wizard/guided/steps Initial Setup
+EXIT  72 14-AUG-26 15:26:40  ef7d 195 1 
+POWR  72 14-AUG-26 15:29:14  32bf Power Cycle 
+POWR  72 14-AUG-26 15:33:52  4a48 Power Cycle 
+POWR  72 14-AUG-26 15:35:34  4804 Power Cycle 
+POWR  72 14-AUG-26 16:40:48  350e Power Cycle 
+KEY   72 14-AUG-26 16:40:52  3979 /wizard/guided/steps Initial Setup
+EXIT  72 14-AUG-26 16:40:52  397a 1133 1 
+POWR  72 14-AUG-26 16:42:14  341d Power Cycle 
